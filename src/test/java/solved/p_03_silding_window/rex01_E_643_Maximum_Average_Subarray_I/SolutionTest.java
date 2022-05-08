@@ -1,4 +1,4 @@
-package solved.p_03_silding_window.rex01_643_Maximum_Average_Subarray_I;
+package solved.p_03_silding_window.rex01_E_643_Maximum_Average_Subarray_I;
 
 import org.junit.Test;
 
